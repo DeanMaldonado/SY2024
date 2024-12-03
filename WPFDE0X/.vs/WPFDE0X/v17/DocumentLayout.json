@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8349060C-3F18-457F-A6DB-7720779A70E8}|WPFDE0X\\WPFDE0X.vbproj|C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\wpfde0x\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8349060C-3F18-457F-A6DB-7720779A70E8}|WPFDE0X\\WPFDE0X.vbproj|solutionrelative:wpfde0x\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8349060C-3F18-457F-A6DB-7720779A70E8}|WPFDE0X\\WPFDE0X.vbproj|c:\\users\\dgmal552\\desktop\\sy24-25\\wpfde0x\\wpfde0x\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8349060C-3F18-457F-A6DB-7720779A70E8}|WPFDE0X\\WPFDE0X.vbproj|solutionrelative:wpfde0x\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\WPFDE0X\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFDE0X\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\WPFDE0X\\MainWindow.xaml",
+              "RelativeToolTip": "WPFDE0X\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T20:23:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\WPFDE0X\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "WPFDE0X\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\dgmal552\\Desktop\\SY24-25\\WPFDE0X\\WPFDE0X\\MainWindow.xaml.vb",
+              "RelativeToolTip": "WPFDE0X\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T20:23:45.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

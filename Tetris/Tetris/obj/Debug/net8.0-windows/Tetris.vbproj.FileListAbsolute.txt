@@ -1,0 +1,17 @@
+C:\Users\dgmal552\source\repos\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.exe
+C:\Users\dgmal552\source\repos\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.deps.json
+C:\Users\dgmal552\source\repos\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.runtimeconfig.json
+C:\Users\dgmal552\source\repos\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.dll
+C:\Users\dgmal552\source\repos\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.pdb
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.Form1.resources
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.Resources.resources
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.vbproj.GenerateResource.cache
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfo.vb
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.vbproj.CoreCompileInputs.cache
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.dll
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\refint\Tetris.dll
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.pdb
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\dgmal552\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\ref\Tetris.dll

@@ -1,0 +1,19 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDE0X"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="Pikachu" HorizontalAlignment="Left" Height="100" Margin="336,170,0,0" VerticalAlignment="Top" Width="100" Source="/Pokémon_Pikachu_art.png"/>
+        <Button x:Name="PikachuButton" Content="Pikachu" HorizontalAlignment="Left" Margin="360,107,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label x:Name="Label" Content="Label" HorizontalAlignment="Left" Margin="362,294,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="Raichu" HorizontalAlignment="Left" Height="100" Margin="466,170,0,0" VerticalAlignment="Top" Width="100" Source="/026.png"/>
+        <Image x:Name="Pichu" HorizontalAlignment="Left" Height="100" Margin="210,170,0,0" VerticalAlignment="Top" Width="100" Source="/pichu.jpg"/>
+        <Button Content="Pichu" HorizontalAlignment="Left" Margin="214,102,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Button Content="Raichu" HorizontalAlignment="Left" Margin="496,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.078,-0.159" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
