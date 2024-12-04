@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pixel_Paint", "Pixel_Paint\Pixel_Paint.vbproj", "{469EA81B-9ADE-46EA-BFB6-45EDB10A6F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469EA81B-9ADE-46EA-BFB6-45EDB10A6F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469EA81B-9ADE-46EA-BFB6-45EDB10A6F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469EA81B-9ADE-46EA-BFB6-45EDB10A6F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469EA81B-9ADE-46EA-BFB6-45EDB10A6F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582E66FD-DBA4-4C48-A10D-22E55C5FD336}
+	EndGlobalSection
+EndGlobal
